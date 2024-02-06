@@ -1,0 +1,1 @@
+export * from './use-cases/ortography/ortography.use-case';
